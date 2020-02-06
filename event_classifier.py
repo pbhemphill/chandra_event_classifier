@@ -7,7 +7,7 @@ from tensorflow import feature_column
 from tensorflow.keras import layers
 from sklearn.model_selection import train_test_split
 
-file_names = ['evt0','evt2']
+file_names = ['data/evt0','data/evt2']
 fits_files = []
 for file_name in file_names:
   print('Loading file {}'.format(file_name))
