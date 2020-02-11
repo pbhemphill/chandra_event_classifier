@@ -1,3 +1,10 @@
+# event_classifier.py
+# version 0.2.1
+# History:
+# 0.2.1 (2020/02/11): Added documentation, some error checking
+# 0.2.0 (2020/02/11): Reworked into class and methods rather than script
+# 0.1.0 (2020/02/06): Initial script hacked together.
+
 import numpy as np
 import pandas as pd
 import astropy.table as table
