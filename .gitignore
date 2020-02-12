@@ -1,3 +1,5 @@
 *.*~
 data/
 .nfs*
+__pycache__
+event_classifier.model
